@@ -13,6 +13,6 @@ public class Main {
         // 4ee3aa0a0d9b2610b482e4571ecc33828c60248a
         // /src/main/java/com/github/blindpirate/extensions/CaptureSystemOutputExtension.java#L44
         // 想办法绕过这个限制，创建一个这样的实例。提示：你可以创建一些别的类和别的方法，并不一定非要在这个类中完成这件事。祝你好运！
-        return CaptureSystemOutputExtension.newInstence();
+        return CaptureSystemOutputExtension.newInstance();
     }
 }
